@@ -138,3 +138,14 @@ font-weight:bold;
 📜 Ver Certificados
 </a>
 
+<a href="pdf/" target="_blank" style="
+display:inline-block;
+padding:12px 22px;
+background:#d32f2f;
+color:white;
+text-decoration:none;
+border-radius:6px;
+font-weight:bold;
+">
+📄 Ver CV en PDF
+</a>
