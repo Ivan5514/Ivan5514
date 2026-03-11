@@ -13,12 +13,6 @@
 <div class="section">
 <h2>Perfil Profesional</h2>
 <h2>🧑 Sobre mí</h2>
-
-<p>
-Yo soy <strong>Flores Solis Leonardo Ivan</strong>, tengo 21 años.
-Naci en el Estado de México pero actualmente vivo en Huamantla, Tlaxcala.
-</p>
-
 <p>
 Me considero una persona creativa, resiliente y empática, profundamente apasionada por las actividades y proyectos que me interesan. Me caracterizo por ser una persona comprometida y competente, con una gran capacidad para analizar situaciones y encontrar soluciones efectivas ante los desafíos que se presenten.
 </p>
