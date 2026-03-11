@@ -119,10 +119,20 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 <li><a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">Microsoft Excel</a></li>
 <li><a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank">Microsoft PowerPoint</a></li>
 <li><a href="https://docs.google.com/" target="_blank">Google Docs</a></li>
-<li><a href="https://sheets.google.com/" target="_blank">Google Sheets</a></li>
+
 </ul>
 
 </section>
 
-
+<a href="Reconocimientos/" style="
+display:inline-block;
+padding:10px 20px;
+background:#2e7d32;
+color:white;
+text-decoration:none;
+border-radius:5px;
+font-weight:bold;
+">
+📜 Ver Certificados
+</a>
 
