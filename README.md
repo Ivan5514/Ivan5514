@@ -124,7 +124,9 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 
 </section>
 
-<a href="Reconocimientos/" style="
+<h3> Certificados </h3>
+
+<a href="certificados/" style="
 display:inline-block;
 padding:10px 20px;
 background:#2e7d32;
