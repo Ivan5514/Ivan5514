@@ -15,8 +15,8 @@
 <h2>🧑 Sobre mí</h2>
 
 <p>
-Mi nombre es <strong>Flores Solis Leonardo Ivan</strong>, tengo 21 años.
-Soy originario del Estado de México y actualmente vivo en Huamantla, Tlaxcala.
+Yo soy <strong>Flores Solis Leonardo Ivan</strong>, tengo 21 años.
+Naci en el Estado de México pero actualmente vivo en Huamantla, Tlaxcala.
 </p>
 
 <p>
