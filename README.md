@@ -13,20 +13,6 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 
 </div>
 
-<div class="section">
-<h2>Mis redes</h2>
-
-
-  <p>✉️ Email: <a href="ivanfloressolis55@gmail.com">leonardoivan@email.com</a></p>
-  <p>📘 Facebook: <a href="https://www.facebook.com/profile.php?id=61586845393734" target="_blank">Ver perfil</a></p>
-  <p>🐙 GitHub: <a href="https://github.com/Ivan5514" target="_blank">Ver perfil</a></p>
-  <p>📱 Numero: <a href="247-250-4583" target="_blank">Ver perfil</a></p>
-
-  
-</div>
-
-
-
 <section class="section">
 <h2> Habilidades Técnicas</h2>
 
@@ -129,3 +115,15 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 <h3> Certificados </h3> <a href="certificados/" style=" display:inline-block; padding:10px 20px; background:#2e7d32; color:white; text-decoration:none; border-radius:5px; font-weight:bold; "> 📜 Ver Certificados </a>
 
 <a href="pdf/" target="_blank" style=" display:inline-block; padding:12px 22px; background:#d32f2f; color:white; text-decoration:none; border-radius:6px; font-weight:bold; "> 📄 Ver CV en PDF
+
+<div class="section">
+<h2>Mis redes</h2>
+
+
+  <p>✉️ Email: <a href="ivanfloressolis55@gmail.com">leonardoivan@email.com</a></p>
+  <p>📘 Facebook: <a href="https://www.facebook.com/profile.php?id=61586845393734" target="_blank">Ver perfil</a></p>
+  <p>🐙 GitHub: <a href="https://github.com/Ivan5514" target="_blank">Ver perfil</a></p>
+  <p>📱 Numero: <a href="247-250-4583" target="_blank">Ver perfil</a></p>
+
+  
+</div>
