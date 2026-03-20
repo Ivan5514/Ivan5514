@@ -2,14 +2,7 @@
 
 <div class="container">
 
-<div class="header">
-<h1>Leonardo Ivan Flores Solis</h1>
-<p>Email: ivanfloressolis55@gmail.com | Tel: 247-250-4583</p>
-<p>Estudiante de 5A de la Carrera de Entornos Virtuales y Negocios Digitales</p>
-<p>Universidad Tecnologica de Tlaxcala</p>
-<img src="banner derecho.png" width="100%" style="border-radius:50%">
-<img src="yo.jpeg" width="200" height="200">
-</div>
+
 <div class="section">
 <h2>Perfil Profesional</h2>
 <h2>🧑 Sobre mí</h2>
