@@ -120,10 +120,10 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 <h2>Mis redes</h2>
 
 
-  <p>✉️ Email: <a href="ivanfloressolis55@gmail.com">leonardoivan@email.com</a></p>
+  <p>✉️ Email: <a>ivanfloressolis55@gmail.com</a></p>
   <p>📘 Facebook: <a href="https://www.facebook.com/profile.php?id=61586845393734" target="_blank">Ver perfil</a></p>
   <p>🐙 GitHub: <a href="https://github.com/Ivan5514" target="_blank">Ver perfil</a></p>
-  <p>📱 Numero: <a href="247-250-4583" target="_blank">Ver perfil</a></p>
+  <p>📱 Numero: <a>247-250-4583</a></p>
 
   
 </div>
