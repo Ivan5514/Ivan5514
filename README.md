@@ -1,4 +1,5 @@
-<div class="header"> <h1>Leonardo Ivan Flores Solis</h1> <p>Estudiante de 5A de la Carrera de Entornos Virtuales y Negocios Digitales</p> <p>Universidad Tecnologica de Tlaxcala</p> <img src="banner derecho.png" width="100%" style="border-radius:50%"> <img src="yo.jpeg" width="200" height="200"> </div
+<div class="header">
+<img src="banner derecho.png" width="100%" style="border-radius:50%"> </div
 
 <div class="container">
 
@@ -10,6 +11,18 @@
 Me considero una persona creativa, resiliente y empática, profundamente apasionada por las actividades y proyectos que me interesan. Me caracterizo por ser una persona comprometida y competente, con una gran capacidad para analizar situaciones y encontrar soluciones efectivas ante los desafíos que se presenten.
 </p>
 
+</div>
+
+<div class="section">
+<h2>Mis redes</h2>
+
+
+  <p>✉️ Email: <a href="ivanfloressolis55@gmail.com">leonardoivan@email.com</a></p>
+  <p>📘 Facebook: <a href="https://www.facebook.com/profile.php?id=61586845393734" target="_blank">Ver perfil</a></p>
+  <p>🐙 GitHub: <a href="https://github.com/Ivan5514" target="_blank">Ver perfil</a></p>
+  <p>📱 Numero: <a href="247-250-4583" target="_blank">Ver perfil</a></p>
+
+  
 </div>
 
 
