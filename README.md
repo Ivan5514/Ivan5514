@@ -118,7 +118,20 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 
 <div class="section">
 
-  <h3>Proyectos</h3>
+<section class="section">
+    <h2>🚀 Mis Proyectos en GitHub</h2>
+<li><a href="https://github.com/Ivan5514/programa_de_integradora" target="_blank">Sistema de Gestión de Laboratorios UTT</a></li>
+<li><a href="https://github.com/erickito1169/Proyecto_Mi-Huertito" target="_blank">Realidad Aumentada de Plantas Medicinales</a></li>
+
+<h3>Animación y Narrativa Digital</h3>
+    <ul>
+        <li>
+            <a href="https://youtu.be/z0yBdu0tAQY" target="_blank">
+                Cortometraje Animado: El Camino a ser Quien Soy (Concientización)
+            </a>
+        </li>
+    </ul> 
+</section>
 
   
 
