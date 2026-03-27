@@ -1,5 +1,5 @@
 <div class="header">
-<img src="banner derecho.png" width="100%" style="border-radius:50%"> </div
+<img src="bannerderecho.png" width="100%" style="border-radius:50%"> </div
 
 <div class="container">
 
