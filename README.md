@@ -134,15 +134,15 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 </section>
 
 <section class="section">
-   <h2>Imágenes de Proyectos</h2> <p align="center">
-  <p align="center">
-      <img src="img/image1.PNG" width="180">
-      <img src="img/image2.PNG" width="180">
-      <img src="img/image3.PNG" width="180">
-      <img src="img/image4.PNG" width="180">
-      
-  </p>
-
+    <h2>Imágenes de Proyectos</h2>
+    
+<p class="galeria" align="center">
+        <img src="img/image1.PNG" alt="Vista previa 1">
+        <img src="img/image2.PNG" alt="Vista previa 2">
+        <img src="img/image3.PNG" alt="Vista previa 3">
+        <img src="img/image4.PNG" alt="Vista previa 4">
+    </p>
+</section>
 
   
 
