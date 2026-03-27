@@ -117,6 +117,11 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 <a href="pdf/" target="_blank" style=" display:inline-block; padding:12px 22px; background:#d32f2f; color:white; text-decoration:none; border-radius:6px; font-weight:bold; "> 📄 Ver CV en PDF
 
 <div class="section">
+
+  <h3>Proyectos</h3>
+
+  
+
 <h2>Mis redes</h2>
 
 
