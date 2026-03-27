@@ -139,6 +139,8 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
         <img src="img/image1.PNG" alt="Vista previa 1">
         <img src="img/image2.PNG" alt="Vista previa 2">
         <img src="img/image4.PNG" alt="Vista previa 4">
+        <img src="img/image5.jfif" alt="Vista previa 5">
+        <img src="img/image6.jfif" alt="Vista previa 6">
     </p>
 </section>
 <h3>Certificados</h3>
