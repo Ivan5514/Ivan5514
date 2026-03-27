@@ -68,7 +68,7 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 <h2>Idiomas</h2>
 <ul>
 <li>Español – Nativo</li>
-<li>Inglés – Básico / Intermedio</li>
+<li>Inglés – A2</li>
 </ul>
 </div>
 
