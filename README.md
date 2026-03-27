@@ -133,6 +133,15 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
     </ul> 
 </section>
 
+<section class="section">
+   <h2>Imágenes de Proyectos</h2> <p align="center">
+  <p align="center">
+      <img src="img/image1.PNG" width="180">
+      <img src="img/image2.PNG" width="180">
+      
+  </p>
+
+
   
 
 <h2>Mis redes</h2>
