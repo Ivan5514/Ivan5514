@@ -138,6 +138,8 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
   <p align="center">
       <img src="img/image1.PNG" width="180">
       <img src="img/image2.PNG" width="180">
+      <img src="img/image3.PNG" width="180">
+      <img src="img/image4.PNG" width="180">
       
   </p>
 
