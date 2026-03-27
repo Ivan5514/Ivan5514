@@ -6,6 +6,15 @@
 
 <div class="section">
 <h2>Perfil Profesional</h2>
+
+<h2>Mis redes</h2>
+
+
+  <p>✉️ Email: <a>ivanfloressolis55@gmail.com</a></p>
+  <p>📘 Facebook: <a href="https://www.facebook.com/profile.php?id=61586845393734" target="_blank">Ver perfil</a></p>
+  <p>🐙 GitHub: <a href="https://github.com/Ivan5514" target="_blank">Ver perfil</a></p>
+  <p>📱 Numero: <a>247-250-4583</a></p>
+  
 <h2>🧑 Sobre mí</h2>
 <p>
 Me considero una persona creativa, resiliente y empática, profundamente apasionada por las actividades y proyectos que me interesan. Me caracterizo por ser una persona comprometida y competente, con una gran capacidad para analizar situaciones y encontrar soluciones efectivas ante los desafíos que se presenten.
@@ -99,29 +108,23 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 <li><a href="https://www.apachefriends.org/es/index.html" target="_blank">XAMPP</a></li>
 </ul>
 
-<h3> Herramientas de Productividad</h3>
-<ul>
-<li><a href="https://www.microsoft.com/microsoft-365/word" target="_blank">Microsoft Word</a></li>
-<li><a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">Microsoft Excel</a></li>
-<li><a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank">Microsoft PowerPoint</a></li>
-<li><a href="https://docs.google.com/" target="_blank">Google Docs</a></li>
-
-</ul>
-
 </section>
 
 <h3>Certificados</h3>
 
 <h3> Certificados </h3> <a href="certificados/" style=" display:inline-block; padding:10px 20px; background:#2e7d32; color:white; text-decoration:none; border-radius:5px; font-weight:bold; "> 📜 Ver Certificados </a>
 
-<a href="pdf/" target="_blank" style=" display:inline-block; padding:12px 22px; background:#d32f2f; color:white; text-decoration:none; border-radius:6px; font-weight:bold; "> 📄 Ver CV en PDF
-
 <div class="section">
 
 <section class="section">
-    <h2>🚀 Mis Proyectos en GitHub</h2>
-<li><a href="https://github.com/Ivan5514/programa_de_integradora" target="_blank">Sistema de Gestión de Laboratorios UTT</a></li>
-<li><a href="https://github.com/erickito1169/Proyecto_Mi-Huertito" target="_blank">Realidad Aumentada de Plantas Medicinales</a></li>
+    <h2>🚀 Mis Proyectos</h2>
+
+<li>
+            <a href="https://www.youtube.com/watch?v=dhOyi26mAU8" target="_blank">
+                Video de Usabilidad: Página de Gestión de Laboratorios
+            </a>
+        </li>
+    </ul>
 
 <h3>Animación y Narrativa Digital</h3>
     <ul>
@@ -130,7 +133,7 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
                 Cortometraje Animado: El Camino a ser Quien Soy (Concientización)
             </a>
         </li>
-    </ul> 
+    </ul>
 </section>
 
 <section class="section">
@@ -139,20 +142,9 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 <p class="galeria" align="center">
         <img src="img/image1.PNG" alt="Vista previa 1">
         <img src="img/image2.PNG" alt="Vista previa 2">
-        <img src="img/image3.PNG" alt="Vista previa 3">
         <img src="img/image4.PNG" alt="Vista previa 4">
     </p>
 </section>
 
-  
-
-<h2>Mis redes</h2>
-
-
-  <p>✉️ Email: <a>ivanfloressolis55@gmail.com</a></p>
-  <p>📘 Facebook: <a href="https://www.facebook.com/profile.php?id=61586845393734" target="_blank">Ver perfil</a></p>
-  <p>🐙 GitHub: <a href="https://github.com/Ivan5514" target="_blank">Ver perfil</a></p>
-  <p>📱 Numero: <a>247-250-4583</a></p>
-
-  
+<a href="pdf/" target="_blank" style=" display:inline-block; padding:12px 22px; background:#d32f2f; color:white; text-decoration:none; border-radius:6px; font-weight:bold; "> 📄 Ver CV en PDF
 </div>
