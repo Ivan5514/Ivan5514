@@ -147,7 +147,10 @@ Me considero una persona creativa, resiliente y empática, profundamente apasion
 
 <h3> Certificados </h3> <a href="certificados/" style=" display:inline-block; padding:10px 20px; background:#2e7d32; color:white; text-decoration:none; border-radius:5px; font-weight:bold; "> 📜 Ver Certificados </a>
 
-<h3> Descargar PDF</h3>
-
-<a href="pdf/" target="_blank" style=" display:inline-block; padding:12px 22px; background:#d32f2f; color:white; text-decoration:none; border-radius:6px; font-weight:bold; "> 📄 Ver CV en PDF
+<div>
+  <h3>Descargar PDF</h3>
+  <a href="CV.pdf" target="_blank" style="display:inline-block; padding:12px 22px; background:#d32f2f; color:white; text-decoration:none; border-radius:6px; font-weight:bold;">
+    📄 Ver CV en PDF
+  </a>
+</div>
 </div>
